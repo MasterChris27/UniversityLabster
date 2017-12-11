@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UniversityLabster</string>
+    <string name="part_nume_unk">Nespecificat</string>
+    <string name="part_prenume_unk">Nespecificat</string>
+    <string name="lista_weeks">Saptamani</string>
+    <string name="text_date_picker">Alege o data</string>
+    <string name="text_grupa_select">Alege grupa</string>
+    <string name="text_btn_add">ADD</string>
+    <string name="text_detail_cours_name">Nume curs</string>
+    <string name="text_detail_prof">Nume profesor</string>
+    <string name="text_detail_start">Incepe</string>
+    <string name="text_detail_finish">Se termina</string>
+    <string name="text_detail_id_curs">Id Curs</string>
+    <string name="text_detail_tip_curs">Tip ora</string>
+    <string name="text_detail_notite">Notite</string>
+    <string name="text_insert_user">Introduceti User</string>
+    <string name="text_insert_pass">Introduceti Parola</string>
+    <string name="btn_reg">Inregistrare</string>
+    <string name="btn_login">Login</string>
+
+
+
+
+    <string-array name="spinner_options">
+        <item name="spinner_1">Grupa 1</item>
+        <item name="spinner_2">Grupa 2</item>
+        <item name="spinner_3">Grupa 3</item>
+        <item name="spinner_4">Grupa 4</item>
+    </string-array>
+
+    <dimen name="name_title">20sp</dimen>
+</resources>
